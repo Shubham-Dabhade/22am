@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.15196581.css",
+    "main.js": "/static/js/main.f2564417.js",
+    "static/media/intro.mp4": "/static/media/intro.31dd1ecbcfafe9e336aa.mp4",
+    "static/media/brand_assets.png": "/static/media/brand_assets.890ad7a2fda6130c5860.png",
+    "static/media/marketing_&_communication.png": "/static/media/marketing_&_communication.25506144d11168b8e87c.png",
+    "static/media/shining_bright.jpeg": "/static/media/shining_bright.071a817f2e59b6921958.jpeg",
+    "static/media/website_design.png": "/static/media/website_design.bb09b20c3a333a66e116.png",
+    "static/media/threat.jpg": "/static/media/threat.e0bf2b7858bf2a4bf5c4.jpg",
+    "static/media/combo.jpeg": "/static/media/combo.bb1a821a93816d6c53bd.jpeg",
+    "static/media/kycc.jpg": "/static/media/kycc.32a39f6af600377b1ace.jpg",
+    "static/media/brand_assets.jpeg": "/static/media/brand_assets.cce47ca6bb5fd03d7c5b.jpeg",
+    "static/media/sales_force.jpeg": "/static/media/sales_force.f395919518755dbbfd7e.jpeg",
+    "static/media/marketing_&_communication.jpeg": "/static/media/marketing_&_communication.9d65cd849234c17f80b6.jpeg",
+    "static/media/crazy.jpeg": "/static/media/crazy.7a5e1cbdf28f909b9f73.jpeg",
+    "static/media/TTam Logo colour@3x.png": "/static/media/TTam Logo colour@3x.2c174e0d7d0082a4c8da.png",
+    "static/media/block-003@3x.png": "/static/media/block-003@3x.2520b6468fdc098f482b.png",
+    "static/media/block-002@3x.png": "/static/media/block-002@3x.c465c4566f90c6824e2c.png",
+    "static/media/block-005@3x.png": "/static/media/block-005@3x.f477114466cef9ab712e.png",
+    "static/media/contactus.jpeg": "/static/media/contactus.5b17e1af0c40fd103e5f.jpeg",
+    "static/media/sec02-block-01@3x.png": "/static/media/sec02-block-01@3x.595288aac39fce0ba339.png",
+    "static/media/block-004@3x.png": "/static/media/block-004@3x.6eb30e35687fc6425825.png",
+    "static/media/sec02-block-02@3x.png": "/static/media/sec02-block-02@3x.aca6c957aac7c9b23cd0.png",
+    "static/media/sec02-block-03@3x.png": "/static/media/sec02-block-03@3x.dd6f03d09c6e0e1a411c.png",
+    "static/media/sec02-block-04@3x.png": "/static/media/sec02-block-04@3x.e1d1eb23dad87d089eb1.png",
+    "static/media/unmboring tm@3x.png": "/static/media/unmboring tm@3x.8a8405e9711856898ded.png",
+    "static/media/sec02-block-05@3x.png": "/static/media/sec02-block-05@3x.54ea76e1b2738f227e82.png",
+    "static/media/sec02-block-06@3x.png": "/static/media/sec02-block-06@3x.891cbbc04ea2eaa1086b.png",
+    "static/media/sec02-block-07@3x.png": "/static/media/sec02-block-07@3x.1c466d19d32e8ec326c8.png",
+    "static/media/sec02-block-08@3x.png": "/static/media/sec02-block-08@3x.22cbe1a503bb8ff1d314.png",
+    "static/media/sec02-block-09@3x.png": "/static/media/sec02-block-09@3x.f0cac0ffcaafc422022b.png",
+    "index.html": "/index.html",
+    "static/media/mask.svg": "/static/media/mask.e9dd8d999caa90c178bc.svg",
+    "main.15196581.css.map": "/static/css/main.15196581.css.map",
+    "main.f2564417.js.map": "/static/js/main.f2564417.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.15196581.css",
+    "static/js/main.f2564417.js"
+  ]
+}

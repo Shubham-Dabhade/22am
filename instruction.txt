@@ -1,0 +1,7 @@
+/**** INSTRUCTION FOR ADDING BLOGS ****/
+1) Normal paragraphs are to be included without any need for the tags
+2) If needed to create Heading, List  write a seperate instance with the tags
+        eg: <b>Heading</b><br>
+            <ul>
+                <li>Element 1</li>
+            </ul>
